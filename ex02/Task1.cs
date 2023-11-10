@@ -22,5 +22,8 @@ namespace ex02
         public DateTime Date   { get; set; }
 
         public preference MyPreference { get; set; }
+
+
+
 }
 }
